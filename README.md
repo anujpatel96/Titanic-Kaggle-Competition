@@ -11,3 +11,5 @@ While there was some element of luck involved in surviving, it seems some groups
 | XGBoost| 81.2647 |
 | Logistic Regression| 81.2547 |
 | Decision Tree| 79.3533 |
+
+![](Titanic.jpg/)
